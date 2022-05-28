@@ -1,0 +1,18 @@
+Variables: es aquel espacio de memoria dónde el programador guarda algo
+de interés que luego utilizará para definir otra cosa como funciones, objetos,
+etc.
+String: es cualquier seguidilla de caracteres expresada entre comillas. Por 
+ejemplo: "a11", "hola", "1", "como estas?".
+
+Funciones: lo que hacen las funciones es relacionar los argumentos que reciba
+de tal forma que realicen o devuelvan algo. Estos argumentos pueden ser variables,
+expresiones, otra función, etc. La palabra fundamental que no debemos olvidar 
+escribir es "return", que es la que hace que nuestra función ejecute el código que 
+escribimos.
+
+Declaraciones if: los "if" en javacript son sentencias que básicamente
+lo que hacen es ejecutar un pedazo de código solamente si se cumplen las 
+condiciones que le indicamos. 
+
+Valores booleanos: son aquellos datos que solo pueden recibir
+dos valores -> true (verdadero) o false (falso).
