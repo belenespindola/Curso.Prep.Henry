@@ -1,0 +1,18 @@
+For: for es un bucle incluido en Javascript que lo utilizamos cuando queremos 
+que nuestro código se repita tanta cantidad de veces como digamos mientras
+una condición se este cumpliendo. Es decir, que lo que hace este bucle
+es evaluar constantemente si nuestra condición se está cumpliendo y al mismo tiempo
+ejecuta el código hasta tantas veces nosotros le indiquemos. 
+
+&&, ||, !: podemos definir estas expresiones como operadores lógicos, 
+que lo que hacen es evaluar dos expresiones y devolver un valor de verdad
+de acuerdo a las características de cada uno. En el caso de "&&" (AND),
+solo devolverá true si ambas expresiones evaludas son true, en caso de que
+una sola o ambas sean false, devolverá false. En el caso de "||" (OR),
+devolverá true si alguna de las dos expresiones es true, y devolverá false
+si ambas expresiones son falsas. En el caso de "!" vemos dos usos:
+por un lado, si comparamos dos expresiones con este operador utilizado asi
+"!==" nos va a decir si dos expresiones NO SON iguales; sería el pensamiento opuesto
+a si usamos "==" el famoso igual. Pero el operador "!" simplemente lo que hace
+es devolvernos el valor booleano opuesto del que le pasemos; NIEGA el valor dado.
+
