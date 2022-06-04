@@ -1,0 +1,3 @@
+Arrays: podemos pensar en un array como un gran cajón dónde podemos guardar objetos
+de todo tipo, y usarlos cuando los necesitemos. Puede contener strings,
+números, etc. 
