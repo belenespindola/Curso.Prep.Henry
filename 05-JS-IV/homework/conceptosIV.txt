@@ -1,0 +1,19 @@
+objetos: los objetos son un tipo de datos de javascript, que los usamos para 
+guardar una serie de datos, como las propiedades o los métodos.
+
+propiedades: una propiedad es una asociación entre un nombre y un valor. 
+Son variables que posee el objeto que estamos tratando y lo definen. 
+
+métodos: los métodos también son propiedades de los objetos. 
+La diferencia con las propidades, es que los métodos son funciones y realizan
+una acción. 
+
+bucles for... in: este tipo de bucle se realiza sobre cada propiedad de cada 
+objeto que estemos tratando. Recorre el código en cada propiedad de cada objeto.
+
+notación de corchetes / notación de puntos: para acceder a las propieades de un objeto
+tenemos dos formas: una con corchetes y otra con puntos. Con el punto podemos acceder
+a la propiedad deseada haciendo objeto.propiedad. En el caso de los corchetes, podemos
+acceder a la propiedad pero debemos usar una cadena o número, o una variable que haga
+referencia a una cadena o número. 
+

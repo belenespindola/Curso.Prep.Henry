@@ -1,0 +1,11 @@
+prototype: es el mecanismo que usan los programadores para lograr que un objeto
+herede propiedades y métodos de otro. Cada objeto tendrá su prototipo de donde
+hereda todas sus propiedades, y todos responderan a un objeto "madre" que es el inicial.
+Podemos decir que es el molde y mecanismo usado para crear.
+
+constructors: los constructores son la "máquina" que utilizamos para crear un objeto
+a partir de una clase. Ahora bien, una clase es un conjunto de objetos que reúnen ciertas
+características. Por ejemplo, si nosotros pensamos en autos hay ciertas caractéristicas que son
+comunes en todos, como tener motor, volante, espejos, etc. Con un constructor, lo que nosotros
+haremos es crear un nuevo auto pero personalizarlo con las características únicas de nuestro
+modelo a partir de las propiedades y métodos definidos en clase Auto. 
